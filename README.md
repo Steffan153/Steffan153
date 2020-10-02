@@ -13,3 +13,7 @@
 ### Tech stuff I use:
 
 ![](https://img.shields.io/badge/-manjaro%20linux-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![](https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/-heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![](https://img.shields.io/badge/-android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![](https://img.shields.io/badge/-clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![](https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api?username=Steffan153&show_icons=true)
+
+Ill stick other stuff in here later
