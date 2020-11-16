@@ -15,4 +15,5 @@
 <img src="https://svg-filler.herokuapp.com/?url=https://simpleicons.org/icons/android.svg&fill=%233DDC84" height="40"> &nbsp; 
 <img src="https://svg-filler.herokuapp.com/?url=https://simpleicons.org/icons/dart.svg&fill=%230175C2" height="40"> &nbsp; 
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Steffan153&show_icons=true) -->
+### Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=Steffan153&show_icons=true)
