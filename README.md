@@ -1,5 +1,3 @@
-# Hey! <img src="icons/blob-wave.gif"> I'm Steffan.  <img src="icons/blob-sunglasses.gif">
-
 ### Stuff I use:
 
 <img src="icons/html5.svg" height="40"> &nbsp; <img src="icons/css3.svg" height="40"> &nbsp; <img src="icons/javascript.svg" height="40"> &nbsp; <img src="icons/typescript.svg" height="40"> &nbsp; <img src="icons/python.svg" height="40"> &nbsp; <img src="icons/ruby.svg" height="40"> &nbsp; <img src="icons/node-dot-js.svg" height="40"> &nbsp; <img src="icons/php.svg" height="40"> &nbsp; <img src="icons/angular.svg" height="40"> &nbsp; <img src="icons/react.svg" height="40"> &nbsp; <img src="icons/vue-dot-js.svg" height="40"> &nbsp; <img src="icons/svelte.svg" height="40"> &nbsp; <img src="icons/tailwindcss.svg" height="40"> &nbsp; <img src="icons/ionic.svg" height="40"> &nbsp; <img src="icons/webcomponents-dot-org.svg" height="40">
